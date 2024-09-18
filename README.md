@@ -1,1 +1,3 @@
-# B1B2
+# piyush kumar gupta
+# Batch B1
+# python all topics
